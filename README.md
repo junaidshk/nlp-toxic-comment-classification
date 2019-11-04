@@ -1,5 +1,5 @@
 # Toxic Comment Classification
-<br/><br/>
+<br/>
 A large number of Wikipedia comments are provided which have been labeled by human raters for toxic behavior.  The problem has only one predictor variable, 'comment_text', which is to be labeled or classified with respect to six target variables.
 <br/><br/>
 <b>The target variables are the following types of toxicity:</b>
