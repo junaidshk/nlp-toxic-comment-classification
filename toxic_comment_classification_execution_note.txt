@@ -1,0 +1,8 @@
+Steps to follow before running the 'toxic_comment_classification.ipynb' file:
+
+1) In your Google drive->My Drive : Create a new folder named 'data'.
+2) Put the original dataset files here (train.csv, test.csv, sample_submission.csv, etc)
+4) On executing the cell it would try to connect to your google drive, follow the instructions and copy the Auth code that is displayed.
+5) Enter the Auth code into the jupyter cell input prompt.
+
+Note: Incase the folder name created in the google drive is different than 'data', then you will have to make change in the pd.read_csv command.
